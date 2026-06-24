@@ -3,7 +3,7 @@
 **`IT Student → AI Engineer in Progress`**
 I build intelligent systems — from autonomous AI agents to multi-step reasoning pipelines. Currently deep in the world of LLMs, agentic frameworks, and the long road toward AGI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arafaathusain121)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arafaat-husain-a1b11b3b7)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/arafaathusain)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arafaat__husain/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arafaathusain9@gmail.com)
