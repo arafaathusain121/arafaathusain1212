@@ -14,17 +14,18 @@ I build intelligent systems — from autonomous AI agents to multi-step reasonin
 
 ## ⚡ What I'm About
 
+class MohdArafat:
 
-agent = AIEngineer(
-    name      = "Mohd Arafat",
-    focus     = ["AI Agents", "LangChain", "LangGraph", "RAG Pipelines"],
-    exploring = ["AGI", "Multi-Agent Systems", "Reasoning Models"],
-    building  = "Autonomous agents that actually work",
-    goal      = "Bridge the gap between LLMs and real-world action"
-)
+    degree      = "B.Tech Information Technology — Final Year"
+    location    = "India 🇮🇳"
 
+    currently   = "Building AI agents that perceive, reason, and act"
+    obsessed_with = ["LangChain", "LangGraph", "Agentic AI", "AGI"]
 
+    belief      = "LLMs are the CPU. Agents are the operating system."
+    next_goal   = "Ship a production-ready autonomous agent from scratch"
 
+    open_to     = ["Internships", "Collaborations", "Research Projects"]
 
 ## 🧠 Core Interests
 
